@@ -1,0 +1,21 @@
+.bg-image {
+    background-image: url("../../public/GENERER_RIG.png");
+    height: 100%;
+    width: 100;
+}
+
+.counter {
+    width: 70%;
+    padding-top: 70px;
+    padding-left: 50px;
+}
+
+.title {
+    margin: 0;
+    font-size: 50px;
+    text-decoration: underline;
+}
+
+.paragraph {
+    font-size: 30px;
+}
