@@ -1,13 +1,13 @@
 .bg-image {
-    background-image: url("../../public/GENERER_RIG.png");
+    background-image: url("../../public/MATERFRANCE.png");
     height: 100%;
     width: 100;
 }
 
 .counter {
-    width: 70%;
-    padding-top: 70px;
-    padding-left: 50px;
+    width: 100%;
+    display: flex;
+    
 }
 
 .title {
@@ -15,7 +15,33 @@
     font-size: 50px;
     text-decoration: underline;
 }
+.rig {
+    font-size: 40px;
+    text-align: center;
 
-.paragraph {
-    font-size: 30px;
 }
+
+.livret{
+    font-size: 38px;
+}
+
+.important{
+    color: rgb(255, 0, 179);
+}
+
+
+#paragraph1 {
+    margin: 340px 0px 0px 80px;
+}
+#paragraph2 {
+    margin: 245px 0px 0px 73px;
+    
+}
+#paragraph3 {
+    margin: 382px 0px 0px 54px;
+}
+#paragraph4 {
+    margin: 340px 0px 0px 91px;
+}
+
+
