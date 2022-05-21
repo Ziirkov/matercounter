@@ -1,10 +1,25 @@
 .bg-image {
-    background-image: url("../../public/MATERFRANCE.png");
+    background-image: url("../../public/GENERER_RIG.png");
     height: 100%;
     width: 100;
 }
 
-.counter {
+.rig {
+    width: 70%;
+    text-align: center;
+}
+
+.rig h2 {
+    font-size: 50px;
+    margin: 0
+}
+
+.important {
+    font-size: 200px;
+    color: rgb(255, 0, 179);
+}
+
+/*.counter {
     width: 100%;
     display: flex;
     
@@ -25,7 +40,7 @@
     font-size: 38px;
 }
 
-.important{
+.important {
     color: rgb(255, 0, 179);
 }
 
@@ -43,5 +58,4 @@
 #paragraph4 {
     margin: 340px 0px 0px 91px;
 }
-
-
+*/

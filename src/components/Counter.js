@@ -61,12 +61,7 @@ function Counter() {
         <div className='bg-image'>
             <div className='counter'>
                 <div className='rig'>
-                    <h2 className='paragraph' id='paragraph1'><span className='important'>{ethSinceStartOfTheYear}</span> ETH <br></br> SOIT {moneyMadeSinceStartOfTheYear}€ </h2>
-                    <h2 className='paragraph' id='paragraph2'> <span className='important'>16.15266</span> ETH <br></br> SOIT 403816.66€</h2>
-                </div>
-                <div className='livret'>                
-                    <h2 className='paragraph' id='paragraph3'><span className='important'>{euroGainedFromLivretA}€</span> D'INTÉRÊTS</h2>
-                    <h2 className='paragraph' id='paragraph4'><span className='important'>383.28€</span>€ D'INTÉRÊTS</h2>
+                    <h2 className='paragraph' id='paragraph1'>DEPUIS LE DÉBUT DE L'ANNÉE, NOTRE RIG A GÉNÉRÉ <br></br><span className='important'>{moneyMadeSinceStartOfTheYear}€</span> </h2>
                 </div>
             </div>
         </div>
